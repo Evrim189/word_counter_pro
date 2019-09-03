@@ -1,0 +1,6 @@
+﻿Version control is a type of system that allows you to keep track of changes made to your code over time. As such, version control is useful because:
+You can revert back to specific ‘versions’ of your code
+Collaboration on the same work is possible because specific changes and associated contributors are tracked
+As coding is an integral aspect of data science, it is best practice to use version control to maintain source code and databases. It also streamlines collaborative projects. Changes can be recorded in a repository: a data structure that stores files and a record of changes made to those files.
+Git is one of the most popular version control systems. It is a distributed version control system. Changes do not have to be committed to the same central repository, which would require that every person working on the project to access that central repository and download the latest code in order to save changes. Instead, everyone can have their own localized repository with its entire history.
+As it is, Git is a fairly straightforward tool that, in conjunction with services like Github (hosts Git repositories on the cloud), facilitates version control.
