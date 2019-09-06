@@ -36,11 +36,3 @@ for key in wordcount.keys():
 
 
         
- #for x, y in thisdict.items():
- # print(x, y) --Sonuçları yazdırırken kullan.
-# case_list = {}
-#for entry in entries_list:
-#    if key in case_list:
-#        case_list[key1].append(value)
-#    else:
-#        case_list[key1] = [value]
